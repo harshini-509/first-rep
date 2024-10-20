@@ -1,2 +1,2 @@
 # first-rep
-unveiling my first Git repository
+unveiling my first Git repository.
